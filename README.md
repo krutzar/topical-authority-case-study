@@ -1,7 +1,7 @@
 # Topical Authority & Google Core Updates: Case Study
 A look at creating content strategy based around content clusters, it's impact on website growth and lead generation, and evidence that websites get re-evaluated on Google's core updates.
 
-More on the idea of topical authority via Koray Tuğberk GÜBÜR: [Importance of Topical Authority: A Semantic SEO Case Study](https://www.oncrawl.com/technical-seo/importance-topical-authority-semantic-seo/@blank) 
+More on the idea of topical authority via Koray Tuğberk GÜBÜR: [Importance of Topical Authority: A Semantic SEO Case Study](https://www.oncrawl.com/technical-seo/importance-topical-authority-semantic-seo/) 
 ## Results & Summary
 With a struggling service line, we needed to make a distinct and focused effort to increase our organic lead generation on a give website. This site had a history of struggling rankings, and had been largely neglected until this project for a variety of internal or business related reasons. 
 
@@ -33,7 +33,7 @@ The issue was that this website didn't have the authority to rank very well (if 
 In this project I set out to efficiently establish a foundation of authority for this website, while confirming for myself that Google would re-evaluate topical authority on it's core algorithm updates. 
 
 ## Methodology and Approach
-For this project the foundation of my process was based around my [Topic Cluster Creation Process](https://github.com/krutzar/topic-cluster-creation@blank). Ultimately this project was a stress test for that methodology. I'll be providing a summary here, but read through the repo for a full breakdown of how I build these content maps out. 
+For this project the foundation of my process was based around my [Topic Cluster Creation Process](https://github.com/krutzar/topic-cluster-creation). Ultimately this project was a stress test for that methodology. I'll be providing a summary here, but read through the repo for a full breakdown of how I build these content maps out. 
 
 Broadly speaking I follow the below steps:
 1. Create Your List Of Keywords: Take a primary topic, let's say it's coffee. Use that as your seed keyword and cast a relatively wide net, gathering as may keywords as you want, digging into sub-topics of coffee as well (such as brewing methods, beans, roasting, etc.)
@@ -47,11 +47,11 @@ I followed this process for several clusters of content, directly related to our
 We tackled a single cluster at a time, fully completing and publishing each piece of content within the topic before moving onto the next one. Once published I ensured each cluster was internally linked, following a slightly modified version of High Voltage SEO's reverse content silos. The only difference is that depending on the size of the topic I may have a third, lower tier. 
 
 ![image](https://github.com/user-attachments/assets/5fbd40e7-9813-41d5-b7e3-347e95e0402f)
-Image via [High Voltage SEO: Reverse Content Silos](https://hvseo.co/blog/the-hidden-hero-of-on-page-seo-reverse-content-silos/@blank)
+Image via [High Voltage SEO: Reverse Content Silos](https://hvseo.co/blog/the-hidden-hero-of-on-page-seo-reverse-content-silos/)
 
 ## Conclusion
 As a result, this update allowed me to test my topic cluster creation process as well as test the idea that Google is re-evaluating sites on core algorithm updates. 
 
 While it still has room for improvement, it's shown me that my topic cluster creation process does a very solid job at mapping a cluster effectively and efficiently, with the process benefiting from algorithm updates and contributing to ongoing traffic growth and lead generation efforts. 
 
-To see more of my work and case studies, visit [https://rkseo.xyz](https://rkseo.xyz@blank)
+To see more of my work and case studies, visit [https://rkseo.xyz](https://rkseo.xyz)
