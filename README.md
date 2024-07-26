@@ -8,10 +8,10 @@ With a struggling service line, we needed to make a distinct and focused effort 
 With the timeline and resources available, from Dec 15 2023 - June 31 2024 we published or refreshed 81 pieces of content across 5 distinct topics on this website. All this content was focused around building topical authority for the site to improve our total ranking keywords and ranking ability, with the ultimate goal of increasing organic lead generation. 
 
 ### Results Achieved
-**+73% Organic Lead Generation**
-**+112% Increase in Clicks**
-**+175% increase in total ranking keywords**
-**+121% Page 1 (top 10) ranking keywords**
+- **+73% Organic Lead Generation**
+- **+112% Increase in Clicks**
+- **+175% increase in total ranking keywords**
+- **+121% Page 1 (top 10) ranking keywords**
 
 #### Organic Traffic Trend Analysis
 When looking at the trend analysis, there's a clear point at which the March 2024 core algorithm update rolled out (officially began rolling out March 5th). The increase in ranking keywords was so noticeable that I was seeing 20-40 new keywords *daily* showing in Semrush, and it had tipped me off to there being an algorithm update prior to it being officially announced late April. 
